@@ -8,7 +8,7 @@ Poker made with C++ and open GL graphics
 
 
 
-# Fetures:
+# Features:
 
 - Score tracker
 - Wagers
